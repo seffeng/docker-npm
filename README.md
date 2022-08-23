@@ -2,7 +2,7 @@
 
 ## 版本
 
-* [npm-7.17 , nodejs-14.20](https://github.com/seffeng/docker-npm/tree/7.17)
+* [npm-6.14 , nodejs-14.20](https://github.com/seffeng/docker-npm/tree/6.x)
 
 ## 常用命令：
 

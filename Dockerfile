@@ -1,4 +1,4 @@
-FROM seffeng/alpine:3.14
+FROM seffeng/alpine:3.13
 
 ENV EXTEND="npm"
 
