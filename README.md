@@ -2,8 +2,10 @@
 
 ## 版本
 
-* [npm-7.17 , nodejs-14.20](https://github.com/seffeng/docker-npm/tree/7.x)
-* [npm-6.14 , nodejs-14.20](https://github.com/seffeng/docker-npm/tree/6.x)
+* [npm-10.9 , npm-10.9.1 , nodejs-22.11 , nodejs-22.11.0 , latest](https://github.com/seffeng/docker-npm/tree/7.x)
+* [npm-9.6 , npm-9.6.6 , nodejs-18.20 , nodejs-18.20.1](https://github.com/seffeng/docker-npm/tree/7.x)
+* [npm-7.17 , npm-7.17.0 , nodejs-14.21 , nodejs-14.21.3](https://github.com/seffeng/docker-npm/tree/7.x)
+* [npm-6.14 , npm-6.14.17 , nodejs-14.20 , nodejs-14.20.1](https://github.com/seffeng/docker-npm/tree/6.x)
 
 ## 常用命令：
 
