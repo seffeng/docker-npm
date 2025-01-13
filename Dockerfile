@@ -1,4 +1,4 @@
-FROM seffeng/alpine:3.18
+FROM seffeng/alpine:3.21
 
 ENV EXTEND="nodejs npm"
 
