@@ -2,7 +2,7 @@
 
 ## 版本
 
-* [npm-10.9 , nodejs-22.11](https://github.com/seffeng/docker-npm/tree/10.x)
+* [npm-11.12 , nodejs-24.22](https://github.com/seffeng/docker-npm/tree/11.x)
 
 ## 常用命令：
 
